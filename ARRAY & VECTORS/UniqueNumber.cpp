@@ -1,5 +1,7 @@
 // Find the unique Element
 
+// in this question we have to use XOR operation and playing with bits
+
 #include<iostream>
 #include<vector>
 using namespace std;
